@@ -1,7 +1,7 @@
 # 🏦 Bank Loan Performance | Analytics Dashboard
 
-**[Live Dashboard Link Placeholder]**
-[Link to the interactive Power BI/Tableau/Data Studio dashboard here]
+**LINK TO DASHBOARD:**
+https://app.powerbi.com/view?r=eyJrIjoiYmM3M2RmNDEtOGUyYS00NGNmLTg3MTctNDg0MjkwNmQ3ZjM5IiwidCI6ImMwMzgxN2Q1LTU1N2YtNDY3Zi05OGNkLTVkMzljYWMwZmQwMyJ9&pageName=0f1107a5026339e35225
 
 ---
 
