@@ -60,10 +60,10 @@ To deliver an interactive visual tool that:
 ## Screenshots / Demos
 
 ### 1. Summary Page (Portfolio Health)
-![Bank Loan Report Summary](<LINK TO Screenshot 2025-10-19 115734.png>)
+![Bank Loan Report Summary](Bank_loan_summary.png)
 
 ### 2. Overview Page (Trend Analysis)
-![Bank Loan Report Overview](<LINK TO Screenshot 2025-10-19 115744.png>)
+![Bank Loan Report Overview](Bank_loan_overview.png)
 
 ### 3. Details Page (Transaction View)
-![Bank Loan Report Details](<LINK TO Screenshot 2025-10-19 115753.png>)
+![Bank Loan Report Details](Bank_loan_details.png)
